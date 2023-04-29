@@ -1,4 +1,4 @@
-# Dark midnight theme for Miniflux
+# Compact version of the popular Dark midnight theme for Miniflux
 
 A dark Miniflux theme that aims to be the most readable and modern minimal Miniflux theme out there.
 
@@ -7,7 +7,7 @@ A dark Miniflux theme that aims to be the most readable and modern minimal Minif
 - Colored categories (first 8 at the moment)
 - Proper white space
 
-![Screenshot](https://i.imgur.com/QLig0CY.png "Screenshot")
+![Screenshot](https://github.com/ashikslab/miniflux-theme-midnight-compact/blob/master/screenshot.png?raw=true)
 
 ## How to use
 
