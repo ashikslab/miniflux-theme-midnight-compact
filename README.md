@@ -7,7 +7,7 @@ A dark Miniflux theme that aims to be the most readable and modern minimal Minif
 - Colored categories (first 8 at the moment)
 - Proper white space
 
-![Screenshot](https://github.com/ashikslab/miniflux-theme-midnight-compact/blob/master/screenshot.png?raw=true)
+![Screenshot](https://i.imgur.com/b95ddbE.png "Screenshot")
 
 ## How to use
 
