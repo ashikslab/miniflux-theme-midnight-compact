@@ -9,7 +9,7 @@
   --width-body: 900px;
   --item-title-link-line-height: 1.23;
   --entry-content-line-height: 1.5;
-  --item-title-link-font-size: 28px;
+  --item-title-link-font-size: 20px;
   --font-size-smaller: 16px;
   --font-size-meta: var(--font-size-smaller);
   --font-size-larger: 20px;
@@ -103,7 +103,7 @@
   --counter-color: #bbb;
 
   @media (max-width: 600px) {
-    --item-title-link-font-size: 24px;
+    --item-title-link-font-size: 20px;
   }
 
   @media (max-width: 600px) {
@@ -223,8 +223,8 @@ body .header {
 
 body .item {
   display: grid;
-  margin-bottom: 20px;
-  margin-top: 30px;
+  margin-bottom: 2px;
+  margin-top: 2px;
   overflow: visible;
   padding-left: 0;
   padding-right: 0;
